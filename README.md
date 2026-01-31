@@ -1,4 +1,4 @@
-# 📝 Todo App (Monotree-Inspired UI)
+# 📝 Todo App (Monotree-Inspired UI) | Reactjs | HTML5, CSS3, javascript | 
 
 A modern React Todo application with a clean, minimal, Monotree-style design.
 Supports nested lists, progress tracking, dark mode, and smooth UI interactions.
@@ -6,7 +6,7 @@ Supports nested lists, progress tracking, dark mode, and smooth UI interactions.
 Built to focus on clarity, usability, and delightful micro-interactions.
 ---
 ## View Project ##
-<a href="#">View Project on browser</a>
+<a href="https://vdharmendra.github.io/Todo-App-Monotree-Inspired-UI-Reactjs-HTML5-CSS3-javascript-">View Project on browser</a>
 
 - 
 👨‍💻 Author

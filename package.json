@@ -1,5 +1,5 @@
 {
-  "homepage": "https://vdharmendra.github.io/DarkLight-Toggle-Smooth-Dark-Mode-Theme-Switcher-ReactJs-DarkMode-React.js-Project/",
+  "homepage": "https://vdharmendra.github.io/Todo-App-Monotree-Inspired-UI-Reactjs-HTML5-CSS3-javascript-/",
   "name": "todolist",
   "private": true,
   "version": "0.0.0",
@@ -10,7 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "react": "^19.2.0",
